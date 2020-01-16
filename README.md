@@ -1,2 +1,17 @@
-# laravel-vuejs-invoice
-Sample laravel vuejs invoice CURD
+# Invoice App built with Laravel and Vue.js
+
+
+![alt tag](https://github.com/apiusb/laravel-vuejs-invoice/raw/master/img-1.png)
+
+![alt tag](https://github.com/apiusb/laravel-vuejs-invoice/raw/master/img-2.png)
+
+### Installation
+`git clone https://github.com/apiusb/laravel-vuejs-invoice.git`
+
+`cd laravel-vuejs-invoice`
+
+`composer install`
+
+
+
+
